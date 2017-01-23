@@ -1,7 +1,7 @@
 ﻿#Git spurningar og svör
 1. Hvað gera eftirfarandi Linux skipanir?
-	cd
-	cd ~
-	ls
-	pwd
-	mkdir
+	cd - notað til að beyta núverandi directory
+	cd ~ - notað til að fara í heima directory
+	ls - sýnir lista yfir öllu í directory
+	pwd - print working directory
+	mkdir - býr til directory
