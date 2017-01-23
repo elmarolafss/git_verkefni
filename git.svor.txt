@@ -11,4 +11,7 @@
 	git status - sýnir hvað hefur verið breytt nýlega og á eftir að commita, almenn status
 	git diff - sýnir breytingar gerðar við indexið
 	git checkout - skiptir um branch
-	
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 
+	b) git diff --staged 
+	c) git diff commit1 commit2
