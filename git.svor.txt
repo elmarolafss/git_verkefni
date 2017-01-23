@@ -25,4 +25,5 @@
  	Git?
  	-Working Directory: mappan sem maður er að vinna með, þar sem skrárnar eru.
  	-Staging area: svæði þar sem breytingar eru geymdar, þú ákveður svo hvort þær séu staðfestar
- 
+ 8.	Hvenær er sniðugt að nota greinar (branches)? 
+ 	-
