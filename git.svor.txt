@@ -5,3 +5,10 @@
 	ls - sýnir lista yfir öllu í directory
 	pwd - print working directory
 	mkdir - býr til directory
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone - clónar skrár frá git hub
+	git log -  sýnir hvaða breytingar hafa verið gerðar við skrá
+	git status - sýnir hvað hefur verið breytt nýlega og á eftir að commita, almenn status
+	git diff - sýnir breytingar gerðar við indexið
+	git checkout - skiptir um branch
+	
