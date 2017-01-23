@@ -18,3 +18,4 @@
 4. 	Hvað er útgáfustýring (e.version control)? 
 	- tekur upp allar breytingar gerðar við skrár, maður getur kallað á akveðna útgáfustýringu.
 5.	Hverjir eru helstu kostir við að nota GIT?
+	-helstu kosturinn er samvinnan, að geta sókt skrá og prufað að breyta henni án þess að breyta hjá hinum, vista svo breytinguna á masterinn og breyta hjá hinum, einfalt og þæginlegt.
