@@ -27,4 +27,6 @@
  	-Staging area: svæði þar sem breytingar eru geymdar, þú ákveður svo hvort þær séu staðfestar
  8.	Hvenær er sniðugt að nota greinar (branches)? 
  	-þegar maður er að vinna með örðum og þegr maður er með fleyri en eitt verkefni, þá getur maður skilað inn breytingum á annað branch.
- 
+ 9.	Hver fann upp GIT?
+ 	-Linus Torvalds
+
