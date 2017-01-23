@@ -16,3 +16,4 @@
 	b) git diff --staged  - sýnir allar sviðslegar breytingar
 	c) git diff commit1 commit2 - sýnir breytingar á milli tvem innsetningum
 4. 	Hvað er útgáfustýring (e.version control)? 
+	- tekur upp allar breytingar gerðar við skrár, maður getur kallað á akveðna útgáfustýringu.
