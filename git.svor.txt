@@ -23,4 +23,6 @@
  	-eins oft og hægt er, ef eitthvað klikkar þá er hægt að sækja siðustu breytingu aftur, gott að commita eftir nokkrar breytingar.
  7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í 
  	Git?
- 	-
+ 	-Working Directory: mappan sem maður er að vinna með, þar sem skrárnar eru.
+ 	-Staging area: svæði þar sem breytingar eru geymdar, þú ákveður svo hvort þær séu staðfestar
+ 
